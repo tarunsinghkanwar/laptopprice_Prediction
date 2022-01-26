@@ -1,0 +1,892 @@
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-24 19:25:09,644:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-24 19:25:09,645:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-24 19:25:09,649:Encoding
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-24 19:25:57,579:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-24 19:25:57,580:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-24 19:25:57,585:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-24 19:25:57,640:data
+INFO:Model:Fiting the Model:2022-01-24 19:25:57,643:XGBFit
+INFO:Preprocessor:Transforming the Features: :2022-01-24 19:25:57,644:transform
+ERROR:Model:Failed to Fit the model: DataFrame.dtypes for data must be int, float, bool or category.  When
+categorical type is supplied, DMatrix parameter `enable_categorical` must
+be set to `True`. Invalid columns:Touchscreen, Ips:2022-01-24 19:25:57,679:XGBFit
+INFO:LoadModel:Dumping the fitted model : :2022-01-24 19:25:57,680:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-24 19:27:51,550:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-24 19:27:51,555:Encoding
+INFO:Preprocessor:Transforming the Features: :2022-01-24 19:27:51,604:transform
+INFO:loaddata:Loading X_train and Y_train:2022-01-24 19:28:09,866:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-24 19:28:09,871:Encoding
+INFO:Preprocessor:Transforming the Features: :2022-01-24 19:28:09,920:transform
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-24 19:30:22,285:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-24 19:30:22,285:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-24 19:30:22,290:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-24 19:30:22,346:data
+INFO:Model:Fiting the Model:2022-01-24 19:30:22,350:XGBFit
+INFO:Preprocessor:Transforming the Features: :2022-01-24 19:30:22,351:transform
+ERROR:Model:Failed to Fit the model: DataFrame.dtypes for data must be int, float, bool or category.  When
+categorical type is supplied, DMatrix parameter `enable_categorical` must
+be set to `True`. Invalid columns:Touchscreen, Ips:2022-01-24 19:30:22,387:XGBFit
+INFO:LoadModel:Dumping the fitted model : :2022-01-24 19:30:22,387:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 10:49:18,134:data
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 10:49:18,161:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 10:49:18,162:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 10:49:18,169:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 10:49:19,801:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 11:59:57,531:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:07:56,285:data
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 12:07:59,444:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:07:59,445:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 12:07:59,449:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:08:16,894:data
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 12:08:18,557:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:08:18,558:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 12:08:18,561:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:08:29,508:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:08:36,424:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:08:37,719:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:08:45,824:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:08:47,190:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:08:52,189:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:08:52,288:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:08:52,408:XGBPredict
+ERROR:Model:Failed to Predictneed to call fit or load_model beforehand:2022-01-25 12:08:52,410:XGBPredict
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 12:09:41,478:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:09:41,478:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 12:09:41,482:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:09:41,589:data
+INFO:Model:Fiting the Model:2022-01-25 12:09:41,593:XGBFit
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:09:41,594:transform
+INFO:LoadModel:Dumping the fitted model : :2022-01-25 12:09:41,884:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:09:51,680:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:09:51,812:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:09:51,912:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:10:50,836:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:10:50,836:data
+ERROR:loaddata:Failed to Load the data: [Errno 2] No such file or directory: 'X_train.pkl':2022-01-25 12:10:50,837:data
+ERROR:loaddata:Failed to Load the data: [Errno 2] No such file or directory: 'X_train.pkl':2022-01-25 12:10:50,837:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:11:43,473:data
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 12:11:44,920:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:11:44,920:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 12:11:44,924:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:12:04,832:data
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 12:12:06,490:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:12:06,491:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 12:12:06,495:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:12:15,764:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:12:20,801:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:12:22,406:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:12:27,388:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:12:29,594:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:12:31,081:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:12:31,225:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:12:31,346:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:12:58,165:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:13:00,457:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:13:00,572:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:13:00,663:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:13:29,468:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:13:30,963:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:13:31,107:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:13:31,206:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:13:34,679:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:13:34,787:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:13:34,899:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:31:08,908:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:31:12,333:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:31:13,617:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:31:13,729:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:31:13,818:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:31:22,470:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:31:24,783:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:31:24,919:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:31:25,109:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:31:30,759:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:31:33,110:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:31:33,256:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:31:33,375:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:31:51,825:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:31:51,935:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:31:52,014:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:32:01,783:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:32:01,903:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:32:01,978:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:37:46,867:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:37:47,014:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:37:47,162:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:37:54,614:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:37:58,763:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:37:58,895:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:37:58,995:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:38:09,283:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:38:12,094:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:38:12,225:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:38:12,347:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:38:20,809:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:38:24,316:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:38:24,472:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:38:24,576:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:38:40,949:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:38:43,184:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:38:43,291:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:38:43,391:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:38:46,770:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:38:46,909:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:38:47,071:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:38:54,614:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:38:56,864:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:38:57,019:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:38:57,147:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:38:59,149:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:38:59,295:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:38:59,396:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:39:14,833:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:39:17,668:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:39:20,475:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:39:20,608:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:39:20,709:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:39:30,580:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:39:34,102:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:39:34,234:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:39:34,341:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:42:37,133:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:42:38,563:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:42:38,688:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:42:38,759:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:42:40,741:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:42:40,869:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:42:40,941:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:42:51,368:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:42:51,510:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:42:51,594:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:42:51,688:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:43:01,633:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:43:04,657:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:43:04,781:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:43:04,865:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:43:09,858:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:43:11,000:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:43:11,152:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:43:11,245:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:43:14,809:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:43:16,010:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:43:16,136:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:43:16,215:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:43:20,925:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 12:43:22,250:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 12:43:22,406:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 12:43:22,513:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:01:35,781:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:01:36,941:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:01:37,060:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:01:37,142:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:02:02,835:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:02:03,845:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:02:03,956:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:02:04,034:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:02:11,266:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:02:12,330:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:02:12,437:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:02:12,596:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:02:22,467:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:02:24,743:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:02:24,867:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:02:24,954:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:02:31,198:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:02:33,366:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:02:33,545:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:02:33,642:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:02:37,766:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:02:38,858:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:02:38,939:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:02:39,009:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:06:18,000:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:06:19,262:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:06:19,392:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:06:19,518:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:06:24,252:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:06:25,536:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:06:25,633:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:06:25,695:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:06:39,253:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:06:40,426:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:06:40,542:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:06:40,606:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:06:42,969:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:06:43,098:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:06:43,184:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:06:46,774:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:06:48,170:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:06:48,267:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:06:48,334:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:09:55,835:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:09:55,835:data
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:09:55,869:Dump_Preprocessor
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:09:55,869:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:09:55,871:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:09:55,871:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:09:55,880:Encoding
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:09:55,880:Encoding
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:09:56,108:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:09:56,108:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:09:56,191:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:09:56,191:XGBPredict
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:10:42,282:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:10:42,282:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:10:42,287:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:01,650:data
+INFO:Model:Fiting the Model:2022-01-25 13:11:01,654:XGBFit
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:01,655:transform
+INFO:LoadModel:Dumping the fitted model : :2022-01-25 13:11:02,005:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:10,291:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:10,291:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:10,291:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:17,317:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:17,317:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:17,317:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:17,439:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:17,439:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:17,439:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:17,597:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:17,597:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:17,597:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:25,869:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:25,869:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:25,869:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:28,142:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:28,142:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:28,142:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:28,244:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:28,244:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:28,244:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:28,382:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:28,382:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:28,382:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:34,813:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:34,813:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:34,813:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:37,216:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:37,216:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:37,216:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:37,340:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:37,340:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:37,340:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:37,454:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:37,454:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:37,454:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:42,594:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:42,594:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:42,594:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:43,808:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:43,808:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:43,808:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:43,892:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:43,892:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:43,892:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:44,016:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:44,016:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:44,016:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:49,746:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:49,746:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:49,746:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:52,133:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:52,133:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:11:52,133:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:52,246:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:52,246:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:11:52,246:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:52,404:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:52,404:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:11:52,404:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:12:01,510:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:12:01,510:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:12:01,510:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:12:03,668:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:12:03,668:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:12:03,668:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:12:03,797:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:12:03,797:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:12:03,797:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:12:03,930:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:12:03,930:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:12:03,930:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:12,260:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:12,260:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:12,260:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:16,504:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:16,504:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:16,504:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:20,698:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:20,698:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:20,698:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:37,968:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:37,968:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:37,968:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:39,329:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:39,329:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:39,329:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:42,447:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:42,447:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:42,447:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:48,409:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:48,409:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:48,409:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:50,591:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:50,591:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:50,591:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:54,489:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:54,489:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:54,489:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:57,073:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:57,073:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:57,073:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:59,573:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:59,573:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:13:59,573:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:14:24,876:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:14:24,876:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:14:24,876:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:14:26,209:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:14:26,209:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:14:26,209:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:14:26,291:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:14:26,291:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:14:26,291:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:14:26,429:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:14:26,429:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:14:26,429:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:03,089:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:03,089:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:03,089:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:03,089:data
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:15:03,121:Dump_Preprocessor
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:15:03,121:Dump_Preprocessor
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:15:03,121:Dump_Preprocessor
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:15:03,121:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:03,124:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:03,124:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:03,124:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:03,124:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:15:03,130:Encoding
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:15:03,130:Encoding
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:15:03,130:Encoding
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:15:03,130:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:03,449:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:03,449:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:03,449:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:03,449:data
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:15:31,645:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:31,646:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:15:31,649:Encoding
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:15:47,610:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:47,610:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:15:47,614:Encoding
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:15:57,966:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:57,966:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:15:57,970:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:15:58,011:data
+INFO:Model:Fiting the Model:2022-01-25 13:15:58,014:XGBFit
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:15:58,014:transform
+INFO:LoadModel:Dumping the fitted model : :2022-01-25 13:15:58,477:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:07,941:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:07,941:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:07,941:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:07,941:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:08,051:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:08,051:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:08,051:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:08,051:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:08,328:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:08,328:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:08,328:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:08,328:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:14,266:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:14,266:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:14,266:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:14,266:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:15,493:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:15,493:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:15,493:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:15,493:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:15,581:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:15,581:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:15,581:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:15,581:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:15,815:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:15,815:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:15,815:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:15,815:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:18,938:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:18,938:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:18,938:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:18,938:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:19,061:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:19,061:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:19,061:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:19,061:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:19,260:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:19,260:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:19,260:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:19,260:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:28,735:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:28,735:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:28,735:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:28,735:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:30,929:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:30,929:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:30,929:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:16:30,929:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:31,052:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:31,052:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:31,052:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:16:31,052:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:31,274:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:31,274:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:31,274:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:16:31,274:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:17:06,176:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:17:06,176:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:17:06,176:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:17:06,176:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:17:06,176:data
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:17:06,199:Dump_Preprocessor
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:17:06,199:Dump_Preprocessor
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:17:06,199:Dump_Preprocessor
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:17:06,199:Dump_Preprocessor
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:17:06,199:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:17:06,202:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:17:06,202:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:17:06,202:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:17:06,202:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:17:06,202:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:17:06,209:Encoding
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:17:06,209:Encoding
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:17:06,209:Encoding
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:17:06,209:Encoding
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:17:06,209:Encoding
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:43:08,104:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:43:08,105:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:43:08,109:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:43:08,185:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:43:08,185:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:43:08,185:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:43:08,185:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:43:08,185:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:43:08,185:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:44:21,380:data
+INFO:Model:Fiting the Model:2022-01-25 13:44:21,386:XGBFit
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:44:21,386:transform
+ERROR:Model:Failed to Fit the model: exception: access violation reading 0x0000000000000008:2022-01-25 13:44:21,413:XGBFit
+INFO:LoadModel:Dumping the fitted model : :2022-01-25 13:44:21,419:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:04,624:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:14,767:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:14,767:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:14,767:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:14,767:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:14,767:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:14,767:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:20,891:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:20,891:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:20,891:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:20,891:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:20,891:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:20,891:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:26,058:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:26,058:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:26,058:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:26,058:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:26,058:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:26,058:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:31,629:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:31,629:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:31,629:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:31,629:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:31,629:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:31,629:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:36,843:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:36,843:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:36,843:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:36,843:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:36,843:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:36,843:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:39,070:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:39,070:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:39,070:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:39,070:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:39,070:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:45:39,070:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:45:39,158:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:45:39,158:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:45:39,158:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:45:39,158:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:45:39,158:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:45:39,158:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:45:39,302:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:45:39,302:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:45:39,302:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:45:39,302:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:45:39,302:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:45:39,302:XGBPredict
+ERROR:Model:Failed to Predictneed to call fit or load_model beforehand:2022-01-25 13:45:39,304:XGBPredict
+ERROR:Model:Failed to Predictneed to call fit or load_model beforehand:2022-01-25 13:45:39,304:XGBPredict
+ERROR:Model:Failed to Predictneed to call fit or load_model beforehand:2022-01-25 13:45:39,304:XGBPredict
+ERROR:Model:Failed to Predictneed to call fit or load_model beforehand:2022-01-25 13:45:39,304:XGBPredict
+ERROR:Model:Failed to Predictneed to call fit or load_model beforehand:2022-01-25 13:45:39,304:XGBPredict
+ERROR:Model:Failed to Predictneed to call fit or load_model beforehand:2022-01-25 13:45:39,304:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:46:04,834:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:46:09,337:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:46:12,350:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:46:17,562:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:46:25,720:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:46:30,334:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:46:31,914:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:46:33,218:data
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:46:33,316:transform
+INFO:Model:Predicting the Laptop Price:2022-01-25 13:46:33,352:XGBPredict
+ERROR:Model:Failed to Predictneed to call fit or load_model beforehand:2022-01-25 13:46:33,355:XGBPredict
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:48:09,584:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:48:09,584:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:48:09,588:Encoding
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:52:20,416:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:52:20,417:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:52:20,420:Encoding
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-25 13:52:37,205:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:52:37,206:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-25 13:52:37,209:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-25 13:52:37,292:data
+INFO:Model:Fiting the Model:2022-01-25 13:52:37,296:XGBFit
+INFO:Preprocessor:Transforming the Features: :2022-01-25 13:52:37,297:transform
+INFO:LoadModel:Dumping the fitted model : :2022-01-25 13:52:37,555:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 12:13:00,426:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 12:13:00,426:data
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-26 12:13:00,452:Dump_Preprocessor
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-26 12:13:00,452:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 12:13:00,453:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 12:13:00,453:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-26 12:13:00,459:Encoding
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-26 12:13:00,459:Encoding
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-26 13:06:44,153:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:06:44,153:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-26 13:06:44,159:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:06:54,067:data
+INFO:Model:Fiting the Model:2022-01-26 13:06:54,071:XGBFit
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:06:54,072:transform
+INFO:LoadModel:Dumping the fitted model : :2022-01-26 13:06:54,346:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:07:08,647:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:08:13,203:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:08:28,155:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:08:34,572:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:08:40,540:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:08:42,071:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:08:43,562:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:08:43,724:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:08:43,804:XGBPredict
+ERROR:Model:Failed to PredictDataFrame.dtypes for data must be int, float, bool or category.  When
+categorical type is supplied, DMatrix parameter `enable_categorical` must
+be set to `True`. Invalid columns:Ram, SSD:2022-01-26 13:08:43,810:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:14:07,155:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-26 13:14:07,159:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:14:34,432:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-26 13:14:34,436:Encoding
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:14:34,526:transform
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:16:11,842:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:16:11,850:transform
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:16:17,825:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:16:17,833:transform
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:16:44,631:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:16:44,639:transform
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:17:06,541:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:17:06,549:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:17:07,287:XGBPredict
+ERROR:Model:Failed to PredictDataFrame.dtypes for data must be int, float, bool or category.  When
+categorical type is supplied, DMatrix parameter `enable_categorical` must
+be set to `True`. Invalid columns:Company, TypeName, Touchscreen, Ips, Cpubrand, HDD, Gpubrand, os:2022-01-26 13:17:07,292:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:17:26,873:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:17:26,881:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:17:27,711:XGBPredict
+ERROR:Model:Failed to PredictDataFrame.dtypes for data must be int, float, bool or category.  When
+categorical type is supplied, DMatrix parameter `enable_categorical` must
+be set to `True`. Invalid columns:Company, TypeName, Touchscreen, Ips, Cpubrand, HDD, Gpubrand, os:2022-01-26 13:17:27,715:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:19:01,951:data
+INFO:Model:Fiting the Model:2022-01-26 13:19:01,955:XGBFit
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:19:01,956:transform
+INFO:LoadModel:Dumping the fitted model : :2022-01-26 13:19:02,217:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:19:09,547:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:19:09,555:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:19:10,297:XGBPredict
+ERROR:Model:Failed to PredictDataFrame.dtypes for data must be int, float, bool or category.  When
+categorical type is supplied, DMatrix parameter `enable_categorical` must
+be set to `True`. Invalid columns:Company, TypeName, Touchscreen, Ips, Cpubrand, HDD, Gpubrand, os:2022-01-26 13:19:10,301:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:19:31,954:data
+INFO:Model:Fiting the Model:2022-01-26 13:19:31,960:XGBFit
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-26 13:19:31,962:Encoding
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:19:32,098:transform
+INFO:LoadModel:Dumping the fitted model : :2022-01-26 13:19:32,535:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:19:39,088:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:19:39,097:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:19:39,828:XGBPredict
+ERROR:Model:Failed to PredictDataFrame.dtypes for data must be int, float, bool or category.  When
+categorical type is supplied, DMatrix parameter `enable_categorical` must
+be set to `True`. Invalid columns:Company, TypeName, Touchscreen, Ips, Cpubrand, HDD, Gpubrand, os:2022-01-26 13:19:39,833:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:20:20,254:data
+INFO:Model:Fiting the Model:2022-01-26 13:20:20,258:XGBFit
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:20:20,259:transform
+INFO:LoadModel:Dumping the fitted model : :2022-01-26 13:20:20,518:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:20:50,210:data
+INFO:Model:Fiting the Model:2022-01-26 13:20:50,214:XGBFit
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:20:50,215:transform
+INFO:LoadModel:Dumping the fitted model : :2022-01-26 13:20:50,507:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:21:56,201:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:21:56,209:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:21:56,944:XGBPredict
+ERROR:Model:Failed to PredictDataFrame.dtypes for data must be int, float, bool or category.  When
+categorical type is supplied, DMatrix parameter `enable_categorical` must
+be set to `True`. Invalid columns:Company, TypeName, Touchscreen, Ips, Cpubrand, HDD, Gpubrand, os:2022-01-26 13:21:56,949:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:22:37,472:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:22:37,479:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:22:38,248:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:23:04,209:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:23:04,217:transform
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:23:18,287:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:23:18,295:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:23:19,009:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:24:26,690:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:24:43,304:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:24:43,304:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:24:43,458:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:24:43,458:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:24:43,545:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:24:43,545:XGBPredict
+ERROR:Model:Failed to PredictDataFrame.dtypes for data must be int, float, bool or category.  When
+categorical type is supplied, DMatrix parameter `enable_categorical` must
+be set to `True`. Invalid columns:Ram, SSD:2022-01-26 13:24:43,572:XGBPredict
+ERROR:Model:Failed to PredictDataFrame.dtypes for data must be int, float, bool or category.  When
+categorical type is supplied, DMatrix parameter `enable_categorical` must
+be set to `True`. Invalid columns:Ram, SSD:2022-01-26 13:24:43,572:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:25:56,952:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:01,774:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:01,774:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:01,774:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:18,415:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:22,941:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:22,941:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:22,941:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:22,941:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:26:23,085:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:26:23,085:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:26:23,085:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:26:23,085:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:26:23,215:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:26:23,215:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:26:23,215:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:26:23,215:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:45,045:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:45,045:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:45,045:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:45,045:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:46,875:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:46,875:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:46,875:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:26:46,875:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:26:46,975:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:26:46,975:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:26:46,975:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 13:26:46,975:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:26:47,074:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:26:47,074:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:26:47,074:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 13:26:47,074:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:28:56,469:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:28:56,469:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:28:56,469:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:28:56,469:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 13:28:56,469:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:43:19,830:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:44:28,152:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:44:31,909:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:44:34,782:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:44:40,220:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:44:42,770:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:44:45,902:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:44:46,070:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:44:46,203:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:44:55,378:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:44:57,779:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:44:57,906:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:44:58,076:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:45:05,127:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:45:05,242:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:45:05,372:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:45:26,293:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:45:28,711:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:45:28,820:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:45:28,920:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:45:34,433:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:45:36,624:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:45:36,738:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:45:36,841:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:50:36,433:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:50:38,804:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:50:38,899:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:50:38,999:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:50:43,500:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:50:44,558:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:50:44,645:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:50:44,797:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:50:48,083:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:50:49,161:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:50:49,244:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:50:49,346:XGBPredict
+INFO:LoadPreprocessor:Dumping Preprocessor class into a pickle file: :2022-01-26 21:56:16,780:Dump_Preprocessor
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:56:16,781:data
+INFO:Preprocessor:Encoding the Independent variables has started: :2022-01-26 21:56:16,785:Encoding
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:56:38,776:data
+INFO:Model:Fiting the Model:2022-01-26 21:56:38,781:XGBFit
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:56:38,983:transform
+INFO:LoadModel:Dumping the fitted model : :2022-01-26 21:56:39,301:loading_model
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:01,894:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:01,894:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:04,681:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:04,681:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:04,801:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:04,801:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:04,913:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:04,913:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:08,038:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:08,038:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:09,126:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:09,126:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:09,224:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:09,224:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:09,297:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:09,297:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:14,388:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:14,388:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:15,581:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:15,581:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:15,662:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:15,662:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:15,729:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:15,729:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:19,639:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:19,639:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:20,825:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:20,825:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:20,930:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:20,930:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:21,051:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:21,051:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:24,637:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:24,637:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:25,782:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:25,782:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:25,861:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:25,861:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:25,931:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:25,931:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:29,625:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:29,625:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:34,225:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:34,225:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:37,003:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:37,003:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:37,167:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:37,167:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:37,309:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:37,309:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:41,327:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:41,327:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:42,552:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:42,552:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:42,649:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:42,649:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:42,740:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:42,740:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:46,293:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:46,293:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:47,452:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:47,452:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:47,532:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:47,532:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:47,613:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:47,613:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:53,640:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:53,640:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:54,822:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:54,822:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:54,910:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:54,910:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:54,990:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:54,990:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:58,174:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:58,174:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:59,405:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:57:59,405:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:59,541:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:57:59,541:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:59,608:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:57:59,608:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:03,369:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:03,369:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:04,713:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:04,713:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:04,811:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:04,811:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:04,873:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:04,873:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:09,290:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:09,290:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:10,476:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:10,476:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:10,595:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:10,595:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:10,706:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:10,706:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:14,270:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:14,270:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:16,224:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:16,224:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:16,339:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:16,339:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:16,471:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:16,471:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:19,697:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:19,697:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:20,867:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:20,867:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:20,941:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:20,941:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:20,996:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:20,996:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:27,024:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:27,024:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:31,256:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:31,256:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:31,369:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:31,369:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:31,458:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:31,458:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:35,218:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:35,218:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:36,485:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:36,485:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:36,572:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:36,572:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:36,640:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:36,640:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:40,416:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:40,416:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:41,485:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:41,485:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:41,559:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:41,559:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:41,607:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:41,607:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:54,846:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:54,846:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:55,850:data
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 21:58:55,850:data
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:55,925:transform
+INFO:Preprocessor:Transforming the Features: :2022-01-26 21:58:55,925:transform
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:56,004:XGBPredict
+INFO:Model:Predicting the Laptop Price:2022-01-26 21:58:56,004:XGBPredict
+INFO:loaddata:Loading X_train and Y_train:2022-01-26 22:54:44,332:data
