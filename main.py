@@ -71,5 +71,5 @@ if st.button('Predict Price'):
     query['Ram'] = query['Ram'].astype('int32')
     query['SSD'] = query['SSD'].astype('int64')
     query['HDD'] = query['HDD'].astype('int64')
-
+    query=prep.transform(query)
     st.title("The predicted price of this configuration is " + str(int(np.exp(model.XGBPredict(query)[0]))))
